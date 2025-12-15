@@ -13,11 +13,18 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Cyber Security Pentesting Lab          | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Assessment Lab           | <a href="https://google.com">Detection Lab</a>|
+| Vulnerability Management               |
+| Web Security Assessment                |
 | Splunk SIEM Lab                        | <a href="https://google.com">Detection Lab</a>|
-| IDS/IPS Lab                            |
-| Keylogger in python                    |
-|
+| Malware Analysis Lab                   |
+| Machine Learning Cyber Security Lab    |
+| SOC Automation Lab with Wazuh          |
+| Phishing Email Analysis Lab            |
+| Keylogger Program in Python            |
+| Fraud Analysis with AI                 |
+| Active Directory                       | 
+
 
 
 ## Tools
@@ -25,19 +32,33 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   
+    <img src="https://img.shields.io/badge/-Snort-EE3124?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-FF6600?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-EE3124?&style=for-the-badge&logo=pfSense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-87CEEB?&style=for-the-badge&logo=Nmap&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Nessus-FF0000?&style=for-the-badge&logo=Nessus&logoColor=white" />
+
+
+
+
 </div>
 
 ### Cloud Tools
 <div>
-    <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?&style=for-the-badge&logo=IBM%20Cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=blue" />
+
+
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-FAB81E?&style=for-the-badge&logo=Splunk&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Splunk_Endpoint-FAB81E?&style=for-the-badge&logo=Splunk&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Splunk_Log_Analysis-FAB81E?&style=for-the-badge&logo=Splunk&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Wazuh-0094CE?&style=for-the-badge&logo=Wazuh&logoColor=blue" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Sentinel&logoColor=white" />
+
+
 </div>
     
 ### Operating Systems
@@ -45,25 +66,27 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=apple&logoColor=white" />
 </div>
 
 
 ### Programming
 <div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=green" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=light-green" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
     <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=OpenJDK&logoColor=white" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
 
 <div>
     
 ### Certificates
 
 <div>
-    <img src="https://img.shields.io/badge/Cisco_CCST_Cybersecurity-Expected_March_2026-1581C4?&style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-Expected_in_December_2025-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Comptia Security+ -Expected_June_2026-1581C4?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-Expected_in_March_2026-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
 </div>
 
@@ -84,5 +107,12 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Vulnerability Assessment Lab
+- Vulnerability Management Lab
+- Splunk Siem Lab
+- Malware Analysis Lab
+- Machine Learning Cyber Security Lab
+- Soc Automation Lab with Wazuh
+- Phishing Email Analysis Lab
+- Keylogger in Python
+- Active Directory
