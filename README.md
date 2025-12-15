@@ -21,8 +21,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 | Machine Learning Cyber Security Lab    |
 | SOC Automation Lab with Wazuh          |
 | Phishing Email Analysis Lab            |
-| Keylogger Program in Python            |
-| Fraud Analysis with AI                 |
+| Keylogger Program in Python            | 
 | Active Directory                       | <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory </a>|
 
 
