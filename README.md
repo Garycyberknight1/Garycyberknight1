@@ -9,19 +9,17 @@ I am a committed cybersecurity professional with a deep passion for safeguarding
 My journey in computer science has sparked a strong passion for cybersecurity. I am eager to transition into this field, specifically targeting a role as a Tier 1 Security Operations Center (SOC) Analyst, where I can apply my technical skills and grow in threat detection and incident response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Vulnerability Assessment Lab           | <a href="https://google.com">Detection Lab</a>|
 | Vulnerability Management               |
 | Web Security Assessment                |
-| Splunk SIEM Lab                        | <a href="https://google.com">Detection Lab</a>|
+| SIEM Lab                               | <a href="https://google.com">Detection Lab</a>|
 | Malware Analysis Lab                   |
-| Machine Learning Cyber Security Lab    |
 | SOC Automation Lab with Wazuh          |
 | Phishing Email Analysis Lab            |
-| Keylogger Program in Python            | <a href="https://github.com/Garycyberknight1/Keylogger-Python-Program/tree/main">Keylogger Program </a>
 | Active Directory                       | <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory </a>|
 
 
@@ -108,10 +106,8 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 ## Projects
 - Vulnerability Assessment Lab
 - Vulnerability Management Lab
-- Splunk Siem Lab
+- SIEM Lab
 - Malware Analysis Lab
-- Machine Learning Cyber Security Lab
 - Soc Automation Lab with Wazuh
 - Phishing Email Analysis Lab
-- <a href="https://github.com/Garycyberknight1/Keylogger-Python-Program/tree/main">Keylogger Program </a>
 - <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory </a>
