@@ -13,14 +13,13 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Vulnerability Assessment Lab           | <a href="https://google.com">Detection Lab</a>|
-| Vulnerability Management               |
-| Web Security Assessment                |
-| SIEM Lab                               | <a href="https://google.com">Detection Lab</a>|
+| SIEM Lab                               |                                               |
 | Malware Analysis Lab                   |
 | SOC Automation Lab with Wazuh          |
 | Phishing Email Analysis Lab            |
-| Active Directory                       | <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory </a>|
+| Vulnerability Management Lab           |
+| Pentesting Lab                         |
+| Active Directory Lab                   | <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory </a>|
 
 
 
@@ -105,9 +104,10 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 ## Projects
 - Vulnerability Assessment Lab
+- Web Security Assessment Lab
 - Vulnerability Management Lab
 - SIEM Lab
 - Malware Analysis Lab
 - Soc Automation Lab with Wazuh
 - Phishing Email Analysis Lab
-- <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory </a>
+- <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory Lab </a>
