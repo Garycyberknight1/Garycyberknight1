@@ -16,7 +16,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 | SIEM Lab                               |                                               |
 | Malware Analysis Lab                   |
 | SOC Automation Lab with Wazuh          |
-| Phishing Email Analysis Lab            |
+| Phishing Email Analysis Lab            | <a href="https://github.com/Garycyberknight1/Phishing-Email-Analysis-Lab"> Phishing Email Analysis Lab </a>
 | Vulnerability Management Lab           |
 | Pentesting Lab                         |
 | Active Directory Lab                   | <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory </a>|
@@ -109,5 +109,5 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 - SIEM Lab
 - Malware Analysis Lab
 - Soc Automation Lab with Wazuh
-- Phishing Email Analysis Lab
+- <a href="https://github.com/Garycyberknight1/Phishing-Email-Analysis-Lab"> Phishing Email Analysis Lab </a>
 - <a href="https://github.com/Garycyberknight1/Active-Directory-Lab/tree/main"> Active Directory Lab </a>
