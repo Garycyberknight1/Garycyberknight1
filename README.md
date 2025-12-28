@@ -80,7 +80,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 ### Certificates
 
 <div>
-    <img src="https://img.shields.io/badge/Comptia Security+ -Expected_June_2026-1581C4?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/CompTIA%20Security+-%20Expected%20June%202026-C80F2E?style=for-the-badge&logo=comptia&logoColor=white" />
     <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-Expected_in_March_2026-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 
 </div>
