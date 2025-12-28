@@ -13,11 +13,11 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|                                               
-| SOC Automation Home Lab                       |
-| Malware Analysis Lab                          |
-| Detection Engineering Lab                     |
+| SOC Automation / XDR Integration              |
 | Vulnerability Management Lab                  | <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
-| Pentesting Lab                                |
+| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |                          |
+| Cloud Security Operations: Detection Engineering & Incident Visibility |                     |
+| Controlled Penetration Testing Lab: Exploiting Legacy System Vulnerabilities|                |
 
 
 
@@ -107,7 +107,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 - Malware Analysis Lab
 - Detection Engineering Lab
 -  <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
-- Pentesting Lab
+- Controlled Penetration Testing Lab: Exploiting Legacy System Vulnerabilities
 
 
 
