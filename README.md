@@ -92,7 +92,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 ## Education
 <div>
   <p>University Of The Cumberlands</p>
-  <p>Master Of Science in Cyber Engineering - February 2026 </p>
+  <p>Master Of Science in Cyber Engineering - June 2026 </p>
 
   <p>Colorado State Universtiy Global</p>
   <p>Bachelor Of Science in Computer Science - September 2024 </p>
@@ -103,10 +103,10 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 ## Projects
 
-- Soc Automation Home Lab
-- Malware Analysis Lab
-- Detection Engineering Lab
--  <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
+- SOC Automation Home / XDR Integration
+- <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
+- Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments
+- Cloud Security Operations: Detection Engineering & Incident Visibility
 - Controlled Penetration Testing Lab: Exploiting Legacy System Vulnerabilities
 
 
