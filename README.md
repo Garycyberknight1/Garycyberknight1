@@ -13,7 +13,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|                                               
-| SOC Home Lab                                  |                           |
+| SOC Home Lab                                  | <a href="https://github.com/Garycyberknight1/SOC-Home-Lab"> SOC Home Lab</a>|
 | Vulnerability Management Lab                  | <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |                          |
 | Cloud Security Operations: Detection Engineering & Incident Visibility |                     |
@@ -103,7 +103,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 ## Projects
 
-- SOC Home Lab
+- <a href="https://github.com/Garycyberknight1/SOC-Home-Lab">SOC Home Lab</a>
 - <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
 - Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments
 - Cloud Security Operations: Detection Engineering & Incident Visibility
