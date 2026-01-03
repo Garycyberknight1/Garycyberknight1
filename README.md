@@ -38,6 +38,21 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 </div>
 
+###Malware Analysis Tools
+<div>
+
+    <img src="https://img.shields.io/badge/-YARA-1E90FF?&style=for-the-badge&logo=appveyor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PEStudio-32CD32?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Procmon-4B0082?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Regshot-FF4500?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Fakenet--NG-008080?&style=for-the-badge&logo=python&logoColor=white" />
+
+
+</div>
+
+
+
+
 ### Cloud Tools
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=yellow" />
