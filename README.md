@@ -15,7 +15,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 |-----------------------------------------------|----------------------------|                                               
 | SOC Automation                                  | <a href="https://github.com/Garycyberknight1/SOC-Automation"> SOC Automation</a>|
 | Vulnerability Management Lab                  | <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
-| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis </a>                       |
+| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>                       |
 | Cloud Security Operations: Detection Engineering & Incident Visibility |                     |
 | Controlled Penetration Testing Lab: Exploiting Legacy System Vulnerabilities|                |
 
