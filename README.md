@@ -13,9 +13,9 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|                                               
-| SOC Home Lab                                  | <a href="https://github.com/Garycyberknight1/SOC-Home-Lab"> SOC Home Lab</a>|
+| SOC Automation                                  | <a href="https://github.com/Garycyberknight1/SOC-Home-Lab"> SOC Automation</a>|
 | Vulnerability Management Lab                  | <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
-| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |                          |
+| Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis </a>                       |
 | Cloud Security Operations: Detection Engineering & Incident Visibility |                     |
 | Controlled Penetration Testing Lab: Exploiting Legacy System Vulnerabilities|                |
 
@@ -103,9 +103,9 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 ## Projects
 
-- <a href="https://github.com/Garycyberknight1/SOC-Home-Lab">SOC Home Lab</a>
+- <a href="https://github.com/Garycyberknight1/SOC-Home-Lab">SOC Automation</a>
 - <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a>
-- Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments
+- <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis </a>
 - Cloud Security Operations: Detection Engineering & Incident Visibility
 - Controlled Penetration Testing Lab: Exploiting Legacy System Vulnerabilities
 
