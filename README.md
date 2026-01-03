@@ -41,6 +41,7 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 ### Cloud Tools
 <div>
     <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=yellow" />
+    <img src="https://img.shields.io/badge/-GuardDuty-FF9900?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM%20Cloud-1261FE?&style=for-the-badge&logo=IBM%20Cloud&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=blue" />
 
