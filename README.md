@@ -41,11 +41,14 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 ### Malware Analysis Tools
 <div>
 
-    <img src="https://img.shields.io/badge/-YARA-1E90FF?&style=for-the-badge&logo=appveyor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PEStudio-32CD32?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Procmon-4B0082?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Regshot-FF4500?&style=for-the-badge&logo=windows&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fakenet--NG-008080?&style=for-the-badge&logo=python&logoColor=white" />
+   ![YARA](https://img.shields.io/badge/-YARA-1E90FF?&style=for-the-badge&logo=appveyor&logoColor=FFFA00)
+![PEStudio](https://img.shields.io/badge/-PEStudio-32CD32?&style=for-the-badge&logo=windows&logoColor=00ADEF)
+![Procmon](https://img.shields.io/badge/-Procmon-4B0082?&style=for-the-badge&logo=windows&logoColor=FFD700)
+![Regshot](https://img.shields.io/badge/-Regshot-FF4500?&style=for-the-badge&logo=windows&logoColor=FFFFFF)
+![Fakenet-NG](https://img.shields.io/badge/-Fakenet--NG-008080?&style=for-the-badge&logo=network-wired&logoColor=FFFFFF)
+
+
+
 
 
 </div>
