@@ -13,8 +13,9 @@ My journey in computer science has sparked a strong passion for cybersecurity. I
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|  
-| Cloud Security Operations: Detection Engineering & Incident Visibility |  <a href= "https://github.com/Garycyberknight1/Cloud-Security-Operations">  Cloud Security Operations: Detection Engineering & Incident Visibility</a>                  |
+|                                               |                            |
 | SOC Home Lab                                  | <a href="https://github.com/Garycyberknight1/SOC-Home-Lab/blob/main/README.md"> SOC Home Lab</a>|
+| Cloud Security Operations: Detection Engineering & Incident Visibility |  <a href= "https://github.com/Garycyberknight1/Cloud-Security-Operations">  Cloud Security Operations: Detection Engineering & Incident Visibility</a>                  |
 | Vulnerability Management Lab                  | <a href="https://github.com/Garycyberknight1/Vulnerability-Management-Lab"> Vulnerability Management Lab </a> |
 | Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments |  <a href="https://github.com/Garycyberknight1/Hybrid-Malware-Analysis" > Hybrid Malware Analysis: Dissecting Malicious Artifacts in Isolated Environments </a>                       |
 |AI Threat Modeling – Agricultural System (PEAT) | <a href="https://github.com/Garycyberknight1/AI-Threat-Modeling-Agricultural-System-PEAT-/tree/main" >AI Threat Modeling – Agricultural System (PEAT) </a>
